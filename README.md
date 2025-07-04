@@ -1,1 +1,1 @@
-Live Link - https://job-application-tracker-1-p5lm.onrender.com
+Deployed-Link - https://job-application-tracker-frontend-rdzy.onrender.com
