@@ -16,13 +16,14 @@ A simple and efficient tool to track job applications, manage statuses, and stay
 
 ## 🖼️ Screenshots
 ### Login
-<img width="1881" height="852" alt="loginn " src="https://github.com/user-attachments/assets/0c65f2e5-963d-4357-9c02-b8ff7f8ebabc" />
+<img width="1881" height="852" alt="loginn " src="https://github.com/user-attachments/assets/ad3a5fff-55e3-43ba-8b78-4fc709c8a478" />
 
 ### Dashboard  
-<img width="1897" height="838" alt="dashboard" src="https://github.com/user-attachments/assets/93d1b91f-9ddd-4223-a3f4-994e5a109ec6" />
+<img width="1897" height="838" alt="dashboard" src="https://github.com/user-attachments/assets/5bf82e90-72bc-45dc-bdc9-89d2b97f3709" />
 
-### Add Application  
-<img width="1896" height="855" alt="add" src="https://github.com/user-attachments/assets/36e4c32b-f6f1-44fe-8800-359fd8e4b419" />
+### Add Job
+<img width="1896" height="855" alt="add" src="https://github.com/user-attachments/assets/062ca780-c5e7-4cdf-99b1-a2aa99175890" />
+
 
 ---
 
